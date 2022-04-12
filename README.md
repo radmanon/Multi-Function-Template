@@ -18,7 +18,3 @@ ABOUT This Application:
     
     
     Published On 9/9/2021
-    
-    
-    Contact Me:
-    radmanon01@gmail.com
